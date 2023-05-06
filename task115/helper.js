@@ -1,0 +1,1 @@
+export const objects = [{name:'Alex'}, {price:'43534534'}, {total:'55.66'}];
